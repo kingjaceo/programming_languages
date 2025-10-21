@@ -33,7 +33,12 @@ Every week, you will:
 In the first week you need to:
 * name your language! it can be plain or intricate, simple or silly. who cares! my favorite language is called "Python" and the language in this class is called "Racket"--those are weird names!
 * design the syntax, specifically a few example programs with intended output
-* implement the very first, most-basic features
+* familiarize with relevant racket packages / functions for achieving your goals
+
+In the second weed you need to:
+* write a reader
+* write an expander
+* 
 
 Languages:
 1) `fractal`
