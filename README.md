@@ -2,6 +2,22 @@
 
 Syllabus
 
+Course Schedule:
+* Day 1: Install Racket, Course/Syllabus Overview, Assessment/Project Structure, Grades
+* Assignment 1: Pick a 1-star topic from the book -- read, take notes, prepare a short lesson
+* Day 2: Racket Topic Presentations
+* Day 3: Racket Topic Presentations
+* Assignment 2: Read the Introduction of Each Tutorial to see what's possible
+* Day 4: Stacker
+* Day 5: Stacker
+* Day 6: Language Day!
+* Assignment 3: Develop "typical example" programs for your language, write a basic reader/expander that recognizes at least three commands
+* Day 7: Stacker / Funstacker
+* Day 8: 
+* Day 9: Language Day!
+* Assignment 4: Expand
+* Day 10:
+* Day 11: 
 Course Format:
 * 2 days a week: lessons and practice
 * every Friday: language progress presentations
@@ -36,5 +52,10 @@ draw graphics on the screen with a combination of scripts and "hand-drawn" textu
 simplify and solve algebraic expressions
 
 6) `graphs`
-draw graphs and run/solve graph algorithms
+draw graphs and run/solve graph algorithms; alternatively, plot curves on 2D (or 3D?) graphs
+
+7) `easy-scripter` aka `rython`
+imagine Python, but you made it yourself
+
+
 
