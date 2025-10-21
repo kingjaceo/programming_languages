@@ -12,12 +12,12 @@ Course Schedule:
 * Day 5: Stacker
 * Day 6: Language Day!
 * Assignment 3: Develop "typical example" programs for your language, write a basic reader/expander that recognizes at least three commands
-* Day 7: Stacker / Funstacker
-* Day 8: 
+* Day 7: Stacker
+* Day 8: Funstacker
 * Day 9: Language Day!
 * Assignment 4: Expand
-* Day 10:
-* Day 11: 
+* Day 10: Funstacker
+* Day 11: Funstacker
 Course Format:
 * 2 days a week: lessons and practice
 * every Friday: language progress presentations
