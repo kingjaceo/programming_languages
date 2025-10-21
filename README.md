@@ -16,8 +16,10 @@ Course Schedule:
 * Day 8: Funstacker
 * Day 9: Language Day!
 * Assignment 4: Expand
-* Day 10: Funstacker
-* Day 11: Funstacker
+* Day 10: 
+* Day 11: 
+
+  
 Course Format:
 * 2 days a week: lessons and practice
 * every Friday: language progress presentations
