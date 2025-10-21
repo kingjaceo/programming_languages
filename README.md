@@ -14,6 +14,11 @@ Every week, you will:
 3) Present these findings via a brief lecture and demo
 4) Decide if you want to stay with your group or change groups
 
+In the first week you need to:
+* name your language! it can be plain or intricate, simple or silly. who cares! my favorite language is called "Python" and the language in this class is called "Racket"--those are weird names!
+* design the syntax, specifically a few example programs with intended output
+* implement the very first, most-basic features
+
 Languages:
 1) `fractal`
 draw different types of fractals, including IFS and L-system fractals, different colors and shapes, etc
@@ -32,3 +37,4 @@ simplify and solve algebraic expressions
 
 6) `graphs`
 draw graphs and run/solve graph algorithms
+
